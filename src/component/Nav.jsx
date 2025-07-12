@@ -7,7 +7,6 @@ function Nav(){
     <div className="a">
         
         <ul>
-        <Link to="/ad"><p>admin</p></Link>
             <li><img style={{position:"relative",right:"5px"}} src="https://www.pinclipart.com/picdir/big/532-5328945_menu-clip-art.png" alt="" />Menu</li>
             <li><img style={{position:"relative",right:"5px"}} src="https://www.pngall.com/wp-content/uploads/13/Search-Button-White-PNG.png" alt="" />Search</li>
         </ul>

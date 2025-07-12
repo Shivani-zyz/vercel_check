@@ -1,19 +1,13 @@
 import { Link } from "react-router-dom"
-function Libas({products}){
+
+
+function Libas(){
 
     return(
         <>
 
 
 
-
-{/* { products.map((p) => (
-            <div key={p._id} style={{ border: '1px solid gray', padding: 10, width:"100%", height:"500px"}}>
-              <img id="if" src={`http://localhost:5000${p.imageUrl}`} alt={p.name}/>
-              <h4>₹{p.price}</h4>
-              <p>{p.size}</p>
-
-            </div>))} */}
 
 
 
